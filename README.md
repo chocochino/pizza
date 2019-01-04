@@ -495,6 +495,12 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Trattoria Toscana](http://www.toscana-tempelhof.de/) - [Sredzkistraße 49](#address)
 * [Pomodorino](https://www.pomodorino.de/pomodorino) - [Straßmannstraße 21](#address)
 
+### Indonesia
+
+#### Tangerang
+
+* [Henk's Pizza](https://henkspizza.com/) - [Ruko Crystal 1, Blok A No. 29](#address)
+
 ### Italy
 
 #### Naples
